@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034985636504",
+    "firebase_url": "https://scissor-s-default-rtdb.firebaseio.com",
+    "project_id": "scissor-s",
+    "storage_bucket": "scissor-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034985636504:android:ef549d8f3477e0c0a346ed",
+        "android_client_info": {
+          "package_name": "com.example.sissiors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034985636504-he8m0cbu1h8emfrnrt3vg8ic3qihob7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6LdGqmTlSKQH5lnp11Zkx3hHzevOLYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034985636504-he8m0cbu1h8emfrnrt3vg8ic3qihob7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034985636504-guptlqdfr5civ6rj280en16u6p1isnrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sissiors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
